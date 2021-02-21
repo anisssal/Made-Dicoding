@@ -62,7 +62,6 @@ class MovieFavFragment : Fragment(){
     }
 
     private fun handleData(data: List<Movie>) {
-        progress_bar.gone()
         if (data.isNullOrEmpty()){
             handleEmptyData()
             return

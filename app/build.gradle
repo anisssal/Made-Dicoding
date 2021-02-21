@@ -53,7 +53,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'com.race604.waveloading:library:1.1.1'
     debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.4'
-
+    implementation "com.airbnb.android:lottie:$lottie_version"
 
 
 }

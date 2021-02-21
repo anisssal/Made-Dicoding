@@ -62,7 +62,6 @@ class TvFavFragment : Fragment(){
     }
 
     private fun handleData(data: List<Tv>) {
-        progress_bar.gone()
         if (data.isNullOrEmpty()){
             handleEmptyData()
             return
