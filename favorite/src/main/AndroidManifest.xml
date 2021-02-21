@@ -25,7 +25,5 @@
                     android:host="fav"/>
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ui.detail.DetailFavMovieTvActivity" />
     </application>
 </manifest>
