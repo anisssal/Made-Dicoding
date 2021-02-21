@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fav_button">fav button</string>
+    <string name="silahkan_coba_lagi">Please try again</string>
+    <string name="terjadi_kesalahan">Something Went Wrong!</string>
+    <string name="retry">Retry</string>
+    <string name="error_logo">error logo</string>
+    <string name="img_error_not_found">img error not found</string>
+    <string name="no_content">Not Found</string>
+    <string name="data_not_found">Data Not Found!</string>
+    <string name="Favorite">Favorite</string>
+    <string name="movie_fav">Movie Fav</string>
+    <string name="tvshow_fav">TV SHOW FAV</string>
+    <string name="title_detail_movie_fav">"Fav Movie Detail"</string>
+    <string name="title_detail_tvshow_fav">Fav TV Detail</string>
+    <string name="success_delete">Success deleting item from favorite</string>
+    <string name="title_favorite">Favorite</string>
+</resources>

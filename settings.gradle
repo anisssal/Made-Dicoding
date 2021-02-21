@@ -1,0 +1,4 @@
+include ':favorite'
+include ':core'
+rootProject.name='BAJPSub1'
+include ':app'

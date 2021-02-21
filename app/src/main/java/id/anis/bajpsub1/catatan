@@ -1,0 +1,24 @@
+Terdapat 3 Fitur Utama
+Syarat:
+
+Menerapkan Modularization
+Syarat:
+
+Membuat 1 Android Library untuk core dan 1 dynamic feature untuk favorite.
+
+Menerapkan Clean Architecture
+Syarat:
+
+Tidak melanggar dependency rule dari Clean Architecture.
+Memisahkan model untuk domain dengan model untuk data (separation model).
+
+Menerapkan Dependency Injection
+Syarat:
+
+Harus menggunakan library Dependency Injection berikut : Dagger/Hilt/Koin/Kodein (pilih salah satu).
+Menerapkan dengan tepat untuk melakukan injection untuk semua fungsionalitas.
+
+Menerapkan Reactive Programming
+Syarat:
+Boleh menggunakan Rx/Flow (pilih salah satu).
+Menerapkan dengan tepat untuk mengambil data dari network dan database.
